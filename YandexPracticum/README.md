@@ -4,8 +4,6 @@
 ∣:---------------∣:-----------------∣:-------------------------:∣
 ∣ data preprocessing ∣ Исследование надёжности заёмщиков ∣ pandas ∣
 ∣ issledovatelsky analis dannyh ∣ Исследование объявлений о продаже квартир ∣ pandas, matplotlib ∣
-
-
 ∣ statistical data analysis ∣ Определение перспективного тарифа для телеком компании ∣ pandas, math, numpy, matplotlib, seaborn, scipy  ∣
 ∣ sborn_project ∣ Исследование потенциально популярных игровых продуктов для планирования рекламных кампаний ∣ pandas, math, numpy, matplotlib, scipy, plotly∣
 ∣ Business analysis ∣ Оптимизирование маркетинговых затрат ∣ pandas, matplotlib, seaborn, numpy, datetime ∣
