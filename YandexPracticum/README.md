@@ -15,7 +15,7 @@
 
 #### Испоьзуемые библиотеки:
      pandas, matplotlib 
-
+***
 
  
 ## statistical data analysis
@@ -23,39 +23,42 @@
 ### Определение перспективного тарифа для телеком компании 
 #### Испоьзуемые библиотеки:
      pandas, math, numpy, matplotlib, seaborn, scipy  
-
+***
 
 ## sborn_project
-
+Проект
 ### Исследование потенциально популярных игровых продуктов для планирования рекламных кампаний 
 
 
 #### Испоьзуемые библиотеки:
      pandas, math, numpy, matplotlib, scipy, plotly
-
+***
 
 ## Business analysis 
-
+Проект
 ### Оптимизирование маркетинговых затрат 
 #### Испоьзуемые библиотеки:
       pandas, matplotlib, seaborn, numpy, datetime 
+***
 
 ## ab_test 
-
+Проект
 ### A/B-анализ крупного интернет-магазина 
 
 #### Испоьзуемые библиотеки:
      pandas, matplotlib, seaborn, numpy, datetime 
+***
 
 ## how tell a story using data 
-
+Проект
 ### Исследование рынка общественного питания в Москве 
 
 #### Испоьзуемые библиотеки:
      pandas, matplotlib, seaborn, numpy 
+***
 
 ## sborn_project2 
-
+Проект
 ### Влияние изменения шрифта в приложения на продажи 
 
 #### Испоьзуемые библиотеки:
