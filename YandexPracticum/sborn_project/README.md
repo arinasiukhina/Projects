@@ -27,3 +27,5 @@
  
  Используемые библиотеки:
  pandas,math,numpy, matplotlib,  scipy, plotly.
+
+#### Статус проекта: завершен
