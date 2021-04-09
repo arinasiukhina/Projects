@@ -23,3 +23,4 @@
 
 Используемые библиотеки: pandas, matplotlib, seaborn, numpy, datetime.
 
+##### Статус проекта: завершен
