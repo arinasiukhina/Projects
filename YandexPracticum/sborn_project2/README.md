@@ -22,3 +22,5 @@
  
 ## Использованные библиотеки: 
 pandas, matplotlib, seaborn, datetime, scipy, numpy, math.
+
+#### Статус проекта: завершен
