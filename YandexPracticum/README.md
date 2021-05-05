@@ -81,3 +81,12 @@
      pandas, matplotlib, seaborn, datetime, scipy, numpy, math  
 
 
+## last project
+Проект
+### Банки — Сегментация пользователей по потреблению
+
+Проанализировать клиентов регионального банка и сегментировать пользователей по количеству потребляемых продуктов.
+
+
+#### Используемые библиотеки:
+     pandas, matplotlib, seaborn, datetime, numpy, scipy.stats 
